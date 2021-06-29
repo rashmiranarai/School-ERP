@@ -1,1 +1,1 @@
-# School-ERP
+# This is a school ERP system
